@@ -1,3 +1,8 @@
 h1{
     color: rgb(148, 16, 148);
 }
+img{
+    border-radius: 20%;
+    height: 500px;
+    width: 350px;
+}
